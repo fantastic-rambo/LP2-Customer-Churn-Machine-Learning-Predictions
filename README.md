@@ -1,5 +1,8 @@
 # WELCOME TO MY GITHUB PAGE
 
+![customer-churn-image](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/5b18de22-53a4-4cee-a858-129b75ceb137)
+In the dynamic and ever-evolving landscape of the telecommunications industry, customer churn has become a critical challenge for service providers. The ability to predict and understand customer churn can significantly impact business success, customer retention strategies and increase customer service satisfaction.
+
 
 # Customer Churn Prediction Project
 
@@ -13,11 +16,9 @@ This project focuses on predicting customer churn within the Vodafone network se
 
 ## Key Links
 
-| Description                 | Link                                        |
-| --------------------------- | ------------------------------------------- |
-| Deployed Power BI Dashboard | [View Dashboard](https://app.powerbi.com/groups/me/reports/313e39ec-ba52-4029-9eb3-dbfd58153ab0/ReportSection?experience=power-bi&clientSideAuth=0) |
-| Published Article           | [Read Article](https://medium.com/@isaacagbogah1/unlocking-the-secrets-of-customer-churn-predicting-the-future-for-business-success-168a448b6a0c)   |
-
+| Code | Name                                     |             Published Article             |                                                                                                                                                          Deployed Dashboard |
+| ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| LP 2 | Customer Churn Classification Prediction | [Read Article](https://medium.com/@isaacagbogah1/unlocking-the-secrets-of-customer-churn-predicting-the-future-for-business-success-168a448b6a0c) | [View Dashboard](https://app.powerbi.com/groups/me/reports/313e39ec-ba52-4029-9eb3-dbfd58153ab0/ReportSection?experience=power-bi&clientSideAuth=0) |
 
 ## Confusion Matrix and Metrics
 
