@@ -43,8 +43,8 @@ This project focuses on predicting customer churn within the Vodafone network se
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/fantastic-rambo/LP2-Customer-Churn-ML-Project.git`
-2. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Prediction`
+1. Clone this repository: `git clone https://github.com/fantastic-rambo/LP2-Customer-Churn-Machine-Learning-Predictions.git`
+2. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Predictions`
 3. Explore the Jupyter notebooks for detailed steps and code execution.
 4. Check out the Power BI dashboard for interactive visualizations.
 5. Read the published article for a comprehensive understanding of the project.
@@ -58,6 +58,7 @@ This project is licensed under the [MIT License](LICENSE).
 Isaac Mawuena Agbogah (Rambo)
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/isaac-agbogah/)
+
 Connect with me on Instagram: [Instagram Profile](https://www.instagram.com/fantasticrambo/)
 
 ---
