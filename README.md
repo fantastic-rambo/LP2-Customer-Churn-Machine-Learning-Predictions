@@ -16,9 +16,6 @@ This project focuses on predicting customer churn within the Vodafone network se
 | Description                 | Link                                        |
 | --------------------------- | ------------------------------------------- |
 | Deployed Power BI Dashboard | [View Dashboard](https://app.powerbi.com/groups/me/reports/313e39ec-ba52-4029-9eb3-dbfd58153ab0/ReportSection?experience=power-bi&clientSideAuth=0) |
-
-| Published Article           | [Read Article](https://medium.com/@isaacagbogah1/unleashing-the-power-of-indian-start-up-funding-an-exploratory-data-driven-analysis-for-success-813ddf7f97c3)   |
-=======
 | Published Article           | [Read Article](https://medium.com/@isaacagbogah1/unlocking-the-secrets-of-customer-churn-predicting-the-future-for-business-success-168a448b6a0c)   |
 
 
@@ -46,12 +43,8 @@ This project focuses on predicting customer churn within the Vodafone network se
 
 ## Getting Started
 
-1. Clone this repository: `git clone https://github.com/fantastic-rambo/LP2-Customer-Churn-ML-Project.git
-2. Navigate to the project directory: `LP2-Customer-Churn-ML-Project`
-=======
 1. Clone this repository: `git clone https://github.com/fantastic-rambo/LP2-Customer-Churn-ML-Project.git`
 2. Navigate to the project directory: `LP2-Customer-Churn-Machine-Learning-Prediction`
->>>>>>> 50b72f2ad96545cb5a7b1296a199dd3d32321875
 3. Explore the Jupyter notebooks for detailed steps and code execution.
 4. Check out the Power BI dashboard for interactive visualizations.
 5. Read the published article for a comprehensive understanding of the project.
@@ -62,12 +55,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-Isaac Mawuena Agbogah 
-
-=======
 Isaac Mawuena Agbogah (Rambo)
 
 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/isaac-agbogah/)
+Connect with me on Instagram: [Instagram Profile](https://www.instagram.com/fantasticrambo/)
 
 ---
 
