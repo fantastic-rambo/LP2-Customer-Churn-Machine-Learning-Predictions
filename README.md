@@ -1,6 +1,6 @@
 # WELCOME TO MY GITHUB PAGE
 
-![customer-churn-image](https://github.com/fantastic-rambo/LP2-Customer-Churn-Machine-Learning-Predictions/assets/58486437/5b18de22-53a4-4cee-a858-129b75ceb137)
+![customer-churn-image](https://github.com/snyamson/LP2-Customer-Churn-Machine-Learning-Prediction/assets/58486437/5b18de22-53a4-4cee-a858-129b75ceb137)
 In the dynamic and ever-evolving landscape of the telecommunications industry, customer churn has become a critical challenge for service providers. The ability to predict and understand customer churn can significantly impact business success, customer retention strategies and increase customer service satisfaction.
 
 
