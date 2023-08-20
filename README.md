@@ -12,9 +12,68 @@ In this project, we embark on an exciting journey to explore and analyze custome
 
 ## Project Overview
 
-This project focuses on predicting customer churn within the Vodafone network service. By analyzing historical customer data, we aim to develop predictive models that can identify potential churners and provide insights into the factors influencing customer decisions. The project follows the CRISP-DM framework, encompassing data understanding, data preparation, exploratory data analysis, feature engineering, model building, hyperparameter tuning, and model evaluation.
+This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) framework to explore and analyze customer churn within the Vodafone network service. The aim is to leverage data-driven insights to identify key factors influencing churn, build predictive models, and develop actionable recommendations that can help Vodafone proactively retain valuable customers and enhance their overall service offerings.
 
-## Key Links
+## 📑 Table of Contents
+- [Project Overview](#project-overview)
+- [Project Structure](#project-structure)
+- [Data Dictionary](#data-dictionary)
+- [Project Highlights](#project-highlights)
+- [Summary](#summary)
+- [Hypothesis Investigated](#hypothesis-investigated)
+  - [Results](#results)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Model Selection](#model-selection)
+- [Model Evaluation (Confusion Matrix)](#model-evaluation-confusion-matrix)
+- [Classification Metrics Score](#classification-metrics-score)
+- [Recommendations](#recommendations)
+- [Getting Started](#getting-started)
+- [License](#license)
+- [Author](#author)
+
+## Project Structure📂
+
+- `code/`: Contains the dataset used for analysis and the Jupyter notebook detailing the data exploration, preprocessing, and model building steps.
+- `article/`: Holds project-related article.
+- `customer churn analysis dashboard.pbix`: The file for the deployed Power BI dashboard.
+- `LICENSE`: Project license.
+- `README.md`: Project overview, links, highlights, and information.
+
+## Data Dictionary
+
+| Feature            | Description                                                                                                      |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Gender           | Whether the customer is a male or a female                                                                       |
+| SeniorCitizen    | Whether a customer is a senior citizen or not                                                                    |
+| Partner          | Whether the customer has a partner or not (Yes, No)                                                              |
+| Dependents       | Whether the customer has dependents or not (Yes, No)                                                             |
+| Tenure           | Number of months the customer has stayed with the company                                                        |
+| Phone Service    | Whether the customer has a phone service or not (Yes, No)                                                        |
+| MultipleLines    | Whether the customer has multiple lines or not                                                                   |
+| InternetService  | Customer's internet service provider (DSL, Fiber Optic, No)                                                      |
+| OnlineSecurity   | Whether the customer has online security or not (Yes, No, No Internet)                                           |
+| OnlineBackup     | Whether the customer has online backup or not (Yes, No, No Internet)                                             |
+| DeviceProtection | Whether the customer has device protection or not (Yes, No, No internet service)                                 |
+| TechSupport      | Whether the customer has tech support or not (Yes, No, No internet)                                              |
+| StreamingTV      | Whether the customer has streaming TV or not (Yes, No, No internet service)                                      |
+| StreamingMovies  | Whether the customer has streaming movies or not (Yes, No, No Internet service)                                  |
+| Contract         | The contract term of the customer (Month-to-Month, One year, Two year)                                           |
+| PaperlessBilling | Whether the customer has paperless billing or not (Yes, No)                                                      |
+| Payment Method   | The customer's payment method (Electronic check, mailed check, Bank transfer(automatic), Credit card(automatic)) |
+| MonthlyCharges   | The amount charged to the customer monthly                                                                       |
+| TotalCharges     | The total amount charged to the customer                                                                         |
+| Churn            | Whether the customer churned or not (Yes or No)                                                                  |
+
+
+#  Project Highlights🚀
+- Utilized the CRISP-DM framework to thoroughly analyze customer churn in the Vodafone network service.
+- Conducted exploratory data analysis to uncover insights and patterns within the dataset.
+- Built predictive models using machine learning algorithms like Random Forest Classifier.
+- Implemented hyperparameter tuning to optimize model performance.
+- Developed a Power BI dashboard for interactive visualization of key findings.
+- Published an insightful article detailing the project and its results.
+
+## Summary
 
 | Code | Name                                     |             Published Article             |                                                                                                                                                          Deployed Dashboard |
 | ---- | ---------------------------------------- | :---------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
